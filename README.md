@@ -1,2 +1,2 @@
 # Game
-It contains all the game made by me in Python. 
+It contains all the games made by me in Python. 
